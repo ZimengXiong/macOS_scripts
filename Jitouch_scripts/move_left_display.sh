@@ -4,7 +4,7 @@
 YABAI_PATH="/opt/homebrew/bin/yabai"
 
 # Define total number of spaces
-max_spaces=12
+max_spaces=9
 
 # Function to get the current space index
 get_current_space() {
